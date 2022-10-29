@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: WIKI
+Build-Jdk: 16.0.2
+Implementation-Title: achat
+Implementation-Version: 1.0
+Implementation-Vendor-Id: tn.esprit.rh
+Implementation-URL: https://spring.io/projects/spring-boot/achat
+Created-By: Maven Integration for Eclipse
+
